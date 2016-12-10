@@ -1,0 +1,11 @@
+package programming.task;
+
+public class ProgrammingTask {
+
+    
+    public static void main(String[] args) {
+        
+        System.out.println("Hello World");
+    }
+    
+}
